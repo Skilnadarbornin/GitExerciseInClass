@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 The Matrix("so amaze"
 The Matrix 2 er lika mjog gott )
+=======
+Shawshank Redemption
+The Matrix("so amaze")
+
+Napoleon Dynamite
+
+>>>>>>> 5064189a49b53289ea77f69747c74a46fcd6925b
